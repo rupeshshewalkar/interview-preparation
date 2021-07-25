@@ -1,0 +1,42 @@
+I have completed my engineering in "Electronic and Telecommunication" in 2008.A fair amount of programming is involved in ECE. Starting from first year, I learnt basic C and C++ language. These programming languages are taught to develop a base for logical thinking required for future programming skills.
+
+In second year, I encountered subjects like microprocessors and microcontrollers. These subject involved hardware oriented course work as well as a bit of programming. Here I learnt assembly language programming and embedded C which are specially designed for microcontrollers.
+
+I have started my career with above software engineering knowledge plus additionally I have learnt SQLplus. I have joined "Electronic Corporation of India Ltd(ECIL is a Government of India Enterprise under the Department of Atomic Energy , to create a strong indigenous base in electronics)". Here I worked for "Bhabha Atomic Research center, Mumbai on National Knowledge Network (NKN) client-side project." and got opportunities to learn new skills like "Linux stack, from kernel, networking, storage, to applications" which gives me to focus on system administration career path.
+
+Later on I have joined "Homi Bhabha Centre for Science Education (HBCSE) is a National Centre of the Tata Institute of Fundamental Research (TIFR) , Mumbai". Here I  got opportunities - Setup new email server with open source mail server i.e postfix/sendmail, webserver, file server and maintain for almost 100K researchers and students. Here I was working with "Nagarjuna G serves as the chairperson of Free Software Foundation of India" https://en.wikipedia.org/wiki/Nagarjuna_G. Under his guidance I have learnt opensource tools and its implementation. Also here I have learnt very new things like customization ubuntu desktop, PC cluster implementation for scientific calculation and basic of python language  
+
+After that I have worked with couple of other organization Innoworth and Saint Gobain Ltd in Mumbai, here I worked closely with leadership team to improve infrastructure and application performance/availability with existing system administration knowledge.  
+Also here I have started learning importance of cloud and Devops tool knowledge and its implementation. 
+
+Currently I am working with "Vodafone Intelligent Solutions". Here I am responsible for design and deliver mission critical infrastructure to ensure the highest levels of availability, performance and security with DevOps tools and AWS Cloud infrastructure
+
+
+
+
+
+
+
+I have intermediate python development experience. Majorly I have used python for lazy system administration task automation like log processing, backup/restore, file processing and conversion etc.
+
+Major python development in my career is ETL (Extract, Transform and Load) script used for conversion from Oracle SQL to Mongo DB, where I have used various modules like pandas, pymongo, numpy, multiprocessing etc which helps to convert few millions of csv data into JSON data in few minutes. Here I have used interactive computing with https://jupyter.org/ instead of descriptive python code.
+
+
+
+
+
+Dedicated and motivated Linux Administrator and DevOps engineer with excellent cross-functional collaboration skills and ability to develop practical, technical solutions to complex problems. 10 years of experience (6 years of experience in Linux administration and 4 years with DevOps and Cloud) managing infrastructure for applications with millions of users. I focus on scalability and performance and have helped save over $750K by reducing infrastructure costs while improving performance.
+
+I have experienced with below skills/tools :
+
+1.Operating system - Linux,RHEL, Centos, Debian and Ubuntu 
+2. Webserver : Design and build Web Servers with HIGH PERFORMANCE (LAMP, NGINX/python, Nginx/Varnish, Nginx/php-fpm, Jboss, Apache tomcat and Varnish) - Improve and Fix performance issues, service optimization, security issues and deployments.
+3. Database: MySQL and MongoDB 
+4. Log event: Splunk, Logstash and Kibana 
+5. CICD with Jenkin
+6. Build with SVN/GIT 
+7. Containerization with Docker and Orchestration with Swarm, Kubernates, Helm etc
+8. Cloud with Amazon Web Service (AWS)
+9. Monitoring with Icinga2, Prometheus and Instana
+10. Scripting using shell, awk, sed and python 
+11. Configuration management with Ansible 
